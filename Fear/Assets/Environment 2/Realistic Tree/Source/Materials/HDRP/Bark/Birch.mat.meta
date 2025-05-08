@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 01cb076670bd046938d58f1d6430d8db
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229716
+  packageName: Realistic Tree Pack 1
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Tree/Source/Materials/HDRP/Bark/Birch.mat
+  uploadId: 519026
